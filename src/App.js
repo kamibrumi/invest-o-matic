@@ -7,8 +7,6 @@ function App() {
   return (
     <div className="App">
       <h1>Invest-o-matic</h1>
-      <BarChart />
-      <LineChart />
     </div>
   );
 }
